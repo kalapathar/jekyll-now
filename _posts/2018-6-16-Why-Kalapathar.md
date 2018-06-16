@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Who am I & What is this blog about
+title: Who am I and What is this blog about
 ---
